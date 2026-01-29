@@ -1,0 +1,14 @@
+# Git ignores these Compiled files
+*.o
+*.out
+hello
+employee
+logwriter
+
+# Git ignores these Log files
+*.log
+
+# Editor backups
+*-
+*.swp
+
