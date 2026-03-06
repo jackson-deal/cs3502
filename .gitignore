@@ -8,6 +8,10 @@ consumer
 producer
 simple_pipe
 bidirectional
+phase1
+phase2
+phase3
+phase4
 
 # Git ignores these Log files
 *.log
